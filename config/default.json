@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://r2b:xv1211xavU72s@socialdb.a7wvh.mongodb.net/socialdb?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b8c1281d16da5fa12175",
+  "githubSecret": "791bf7615fd6218ee4520fb9d76b9c35ec17a5d5"
+}
